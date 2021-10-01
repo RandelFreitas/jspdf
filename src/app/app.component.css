@@ -1,0 +1,159 @@
+/* GERAL */
+#content {
+    width: 595px;
+    height: 842px;
+    border: black solid 1px;
+}
+table {
+    width: 100%;
+}
+.border {
+    padding: auto;
+}
+.row {
+    margin: 30px;
+}
+.padding {
+    padding: 0;
+}
+/* CLIENTE */
+.center {
+    margin: 0 auto;
+    text-align: start;
+}
+.title {
+    border-radius: 10px;
+    height: 100%;
+    background-color: #159EA5;
+    text-align: center;
+    padding-top: 16px;
+}
+.center {
+    width: 80%;
+}
+.client {
+    color: white;
+    font-weight: 900;
+}
+.uc {
+    color: white;
+}
+/* DASHBOARD */
+.total {
+    width: 161px;
+    height: 87px;
+    border: #b0e8af solid 2px;
+    border-radius: 10px;
+    background: #f3fcf3;
+    text-align: center;
+}
+.nClientes {
+    padding-top: 18px;
+    font-size: 43px;
+    font-family: Helvetica, sans-serif;
+    color: #14BA10;
+}
+.textClientes {
+    color: #14BA10;
+    font-size: 6px;
+}
+.abertos {
+    width: 161px;
+    height: 87px;
+    border: #fae0ad solid 2px;
+    border-radius: 10px;
+    background: #fefaf3;
+    text-align: center;
+}
+.nUCS {
+    padding-top: 18px;
+    font-size: 43px;
+    font-family: Helvetica, sans-serif;
+    color: #EFA20B;
+}
+.textUCS {
+    color: #EFA20B;
+    font-size: 6px;
+}
+.vencidos {
+    width: 161px;
+    height: 87px;
+    border: #faadad solid 2px;
+    border-radius: 10px;
+    background: #fef3f3;
+    text-align: center;
+}
+.nUsina {
+    padding-top: 18px;
+    font-size: 43px;
+    font-family: Helvetica, sans-serif;
+    color: #EF0B0B;
+}
+.textUsina {
+    color: #EF0B0B;
+    font-size: 6px;
+}
+/* TITULO DA TABELA */
+#id {
+    margin: 0px;
+    height: 0;
+}
+.titles-first-table {
+    font-size: 11px;
+}
+.cliente {
+    margin: 0;
+    padding-left: 20px;
+    font-weight: 900;
+    margin-left: 10px;
+}
+.rateio {
+    padding-left: 20px;
+    font-weight: 900;
+}
+.inicio {
+    padding: 0;
+    font-weight: 900;
+}
+.fim {
+    padding-left: 22px;
+    font-weight: 900;
+}
+/* UNIDADE CONSUMIDORA */
+#barraca {
+    height: 20px;
+    margin-top: 30px;
+    margin-bottom: 4px;
+}
+.nameUc {
+    font-size: 13px;
+    font-weight: 400;
+}
+.rateioUc {
+    padding-left: 14px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.inicioUc {
+    padding-left: 3px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.fimUc {
+    padding-left: 36px;
+    font-size: 13px;
+    font-weight: 400;
+}
+/* TABELA */
+.mainTable {
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+.color-table {
+    background-color: #ecf7f8;
+}
+.table > tbody > tr {
+    border-bottom: 1px solid #159ea5;
+}
